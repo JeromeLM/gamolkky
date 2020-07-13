@@ -1,0 +1,50 @@
+.zone {
+    /*padding:30px 50px;*/
+    cursor:pointer;
+    color:#FFF;
+    font-size:2em;
+    border-radius:4px;
+    border: 0px solid #bbb;
+    transition: all 0.3s linear;
+    width: 100%;
+}
+
+.zone:hover {
+    -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.main-nav {
+    display: flex;
+    flex-flow: row nowrap;
+    list-style: none inside none;
+    padding: 0;
+    /*margin: 0;*/
+    font-size: 0.7em;
+    font-family: Arial;
+    justify-content: flex-start;
+}
+
+li {
+	margin-left: 10px;
+    margin-right: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .main-nav {
+        font-size: 0.5em;
+        padding: 0;
+    }
+}
+
+.first-right-nav-item {
+	margin-left: auto;
+}
