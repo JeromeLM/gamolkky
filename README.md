@@ -1,2 +1,6 @@
 # gamolkky
-Web application to track Mölkky scores
+Web application to track Mölkky scores. Work in progress...
+
+The aim is to use this app development to play with CSS flexbox and CSS grid, javascript, React... while attending the course "Complete Web Developer in 2020" from Zero To Mastery Academy.
+
+More info to come...
