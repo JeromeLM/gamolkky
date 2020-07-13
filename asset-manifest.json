@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gamolkky/static/css/main.184c1946.chunk.css",
+    "main.js": "/gamolkky/static/js/main.8ecdce7a.chunk.js",
+    "main.js.map": "/gamolkky/static/js/main.8ecdce7a.chunk.js.map",
+    "runtime-main.js": "/gamolkky/static/js/runtime-main.a3caba86.js",
+    "runtime-main.js.map": "/gamolkky/static/js/runtime-main.a3caba86.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/gamolkky/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c932911b.chunk.js": "/gamolkky/static/js/2.c932911b.chunk.js",
+    "static/js/2.c932911b.chunk.js.map": "/gamolkky/static/js/2.c932911b.chunk.js.map",
+    "index.html": "/gamolkky/index.html",
+    "precache-manifest.ebff7a607b8d9731864ccf95e70ce3ef.js": "/gamolkky/precache-manifest.ebff7a607b8d9731864ccf95e70ce3ef.js",
+    "service-worker.js": "/gamolkky/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/gamolkky/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.184c1946.chunk.css.map": "/gamolkky/static/css/main.184c1946.chunk.css.map",
+    "static/js/2.c932911b.chunk.js.LICENSE.txt": "/gamolkky/static/js/2.c932911b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gamolkky/static/media/background_image.58888783.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3caba86.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c932911b.chunk.js",
+    "static/css/main.184c1946.chunk.css",
+    "static/js/main.8ecdce7a.chunk.js"
+  ]
+}
